@@ -1,0 +1,21 @@
+{
+  "name": "MailPolling",
+  "version": "1.0.0",
+  "description": "Connects to multiple mailboxes and does stuff with the mails that appear.",
+  "main": "index.js",
+  "author": "Sebastian Gfeller",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-preset-env": "^1.7.0",
+    "css-loader": "^1.0.0",
+    "html-loader": "^0.5.5",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.21.0",
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
