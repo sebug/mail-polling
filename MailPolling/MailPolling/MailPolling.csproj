@@ -8,6 +8,8 @@
     <Folder Include="Client\" />
     <Folder Include="Client\components\" />
     <Folder Include="Client\components\app-root\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
   <ItemGroup>
