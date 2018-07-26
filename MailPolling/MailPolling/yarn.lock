@@ -665,6 +665,10 @@ babel-preset-env@^1.7.0:
     invariant "^2.2.2"
     semver "^5.3.0"
 
+babel-regenerator-runtime@^6.5.0:
+  version "6.5.0"
+  resolved "https://registry.yarnpkg.com/babel-regenerator-runtime/-/babel-regenerator-runtime-6.5.0.tgz#0e41cd1c9f80442466f015c749fff8ba98f8e110"
+
 babel-register@^6.26.0:
   version "6.26.0"
   resolved "https://registry.yarnpkg.com/babel-register/-/babel-register-6.26.0.tgz#6ed021173e2fcb486d7acb45c6009a856f647071"
@@ -1141,6 +1145,12 @@ cross-spawn@^6.0.5:
     semver "^5.5.0"
     shebang-command "^1.2.0"
     which "^1.2.9"
+
+crossroads@^0.12.2:
+  version "0.12.2"
+  resolved "https://registry.yarnpkg.com/crossroads/-/crossroads-0.12.2.tgz#b1d5f9c1d98af3bdd61f1bda6a86dd1aee4ff8f2"
+  dependencies:
+    signals "<2.0"
 
 crypto-browserify@^3.11.0:
   version "3.12.0"
@@ -1730,6 +1740,12 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
+hasher@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/hasher/-/hasher-1.2.0.tgz#8b5341c3496124b0724ac8555fbb8ca363ebbb73"
+  dependencies:
+    signals ">0.7 <2.0"
+
 he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
@@ -2095,6 +2111,10 @@ kind-of@^5.0.0:
 kind-of@^6.0.0, kind-of@^6.0.2:
   version "6.0.2"
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-6.0.2.tgz#01146b36a6218e64e58f3a8d66de5d7fc6f6d051"
+
+knockout@^3.4.2:
+  version "3.4.2"
+  resolved "https://registry.yarnpkg.com/knockout/-/knockout-3.4.2.tgz#e87958de77ad1e936f7ce645bab8b5d7c456d937"
 
 lcid@^1.0.0:
   version "1.0.0"
@@ -3049,6 +3069,10 @@ shebang-regex@^1.0.0:
 signal-exit@^3.0.0, signal-exit@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
+
+signals@<2.0, "signals@>0.7 <2.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/signals/-/signals-1.0.0.tgz#65f0c1599352b35372ecaae5a250e6107376ed69"
 
 slash@^1.0.0:
   version "1.0.0"
