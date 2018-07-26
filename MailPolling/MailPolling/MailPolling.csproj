@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
     <Folder Include="Client\" />
     <Folder Include="Client\components\" />
     <Folder Include="Client\components\app-root\" />
